@@ -1,0 +1,22 @@
+---
+unattended:
+  blacklist:
+    - mongodb
+    - mongodb-10gen
+    - mongodb-clients
+    - mongodb-server
+    - mysql-client
+    - mysql-server
+    - php5
+    - php7.0
+    - php7.2
+    - php7.3
+    - php-pear
+    - supervisor
+    - mariadb-server-core 
+    - mariadb-server 
+    - mariadb-client
+    - mysql-community-client
+    - mysql-community-server
+    - unifi
+    - nginx
